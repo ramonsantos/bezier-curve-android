@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.uag.bcc.cg.Tela" >
+
+    <item
+        android:id="@+id/action_limpar"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_azul"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/cor_azul"/>
+    <item
+        android:id="@+id/action_amarelo"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/cor_amarelo"/>
+    <item
+        android:id="@+id/action_verde"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/cor_verde"/>
+    <item
+        android:id="@+id/action_vermelho"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/cor_vermelho"/>
+    
+   
+
+</menu>

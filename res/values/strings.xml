@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Curvas de Bézier</string>
+    <string name="action_settings">Limpar</string>
+    <string name="cor_verde">Verde</string>
+    <string name="cor_azul">Azul</string>
+    <string name="cor_amarelo">Amarelo</string>
+    <string name="cor_vermelho">Vermelho</string>
+
+</resources>
